@@ -1,1 +1,1 @@
-# AMAZON-project
+# AMAZON-project-sample
